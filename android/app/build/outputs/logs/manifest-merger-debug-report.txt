@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] /Users/wutingfu/Desktop/new-mms-rn/mms_rn/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/wutingfu/Desktop/new-mms-rn/mms_rn/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-screens] /Users/wutingfu/Desktop/new-mms-rn/mms_rn/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/wutingfu/Desktop/new-mms-rn/mms_rn/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/ad9078071862d68aa3693406be1ca4a3/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/5d1061fd424774da300e3665b690011e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/dd948154280057e1161115d4b176fd92/AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/8e14db7d070ad08ecff535d645b57a0a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/8e5eacd2ec64c7d75e38f6027a40f3d2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/0ea35950de90dd0c5b8189775b5a4864/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/c524b08dfa49254e6c0e889d04484aee/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/36b382e4c4911d1239fe806fe1e66d57/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/e8ffb1e85d0d267580aada9c4771efcc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/2f79b7a9b693e27ef0fc4bc3f044092c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/6dd132864a5c51beb136620df3daae62/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/c5f7a771183807500f00d7e7b880503d/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/76ef4e01a897bd979dfd4cab25dc8c42/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/b6be0f18e52e1c3f961a25e7bc7eee64/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/02c65bbd703313a8bdf0683e7536e9a5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.1.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/3477bfa0acc59cb22644780fdc7fe6a7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/dfa937ca0b1bfb7163ce23f78f06b000/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/bbdf8bafea648111e96bff181a501bb5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/42b4c9e7620319ea9e7f871f334d218c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/e3562adb03f63f08c7d9ed535750888e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/79fbfba3e40fcbc9dfdbf3196bcfcc5b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/c07210e7e0481d64f9dc05be9a795815/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/4c7982f127c2dfee5581e4205d9fc558/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/43a4ae23e80a395e119a800ee7d70615/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/005f4b733510dda10cbebf044e4356b2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/b59074a32769ff97871e13ac4cb26f52/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/a51304ee253976ac369eb538a385f1ad/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/dfec69438058b5b09c6eb922d1461acd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/dcb7f06f5d922b41d6aceb66a0a9c0cb/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/c29ffcd1d59351f5c685f32235840832/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/106bb37aeca31d79e72827cb8801f468/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/bb3ce86e8a83609dab09d31979c9849e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/6854d6fb1ea8dbd95af2cb89d1f3822a/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:2:3-23
+		INJECTED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:2:3-23
+		INJECTED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/ad9078071862d68aa3693406be1ca4a3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/ad9078071862d68aa3693406be1ca4a3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/c5f7a771183807500f00d7e7b880503d/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/c5f7a771183807500f00d7e7b880503d/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/4c7982f127c2dfee5581e4205d9fc558/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/4c7982f127c2dfee5581e4205d9fc558/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/b59074a32769ff97871e13ac4cb26f52/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/b59074a32769ff97871e13ac4cb26f52/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/4c7982f127c2dfee5581e4205d9fc558/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.mms_rn.MainActivity
+ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /Users/wutingfu/Desktop/new-mms-rn/mms_rn/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/wutingfu/Desktop/new-mms-rn/mms_rn/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/wutingfu/Desktop/new-mms-rn/mms_rn/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/wutingfu/Desktop/new-mms-rn/mms_rn/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/wutingfu/Desktop/new-mms-rn/mms_rn/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/wutingfu/Desktop/new-mms-rn/mms_rn/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/wutingfu/Desktop/new-mms-rn/mms_rn/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/wutingfu/Desktop/new-mms-rn/mms_rn/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/ad9078071862d68aa3693406be1ca4a3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/ad9078071862d68aa3693406be1ca4a3/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/5d1061fd424774da300e3665b690011e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/5d1061fd424774da300e3665b690011e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/dd948154280057e1161115d4b176fd92/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/dd948154280057e1161115d4b176fd92/AndroidManifest.xml:20:5-22:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/8e14db7d070ad08ecff535d645b57a0a/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/8e14db7d070ad08ecff535d645b57a0a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/8e5eacd2ec64c7d75e38f6027a40f3d2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/8e5eacd2ec64c7d75e38f6027a40f3d2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/0ea35950de90dd0c5b8189775b5a4864/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/0ea35950de90dd0c5b8189775b5a4864/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/c524b08dfa49254e6c0e889d04484aee/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/c524b08dfa49254e6c0e889d04484aee/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/36b382e4c4911d1239fe806fe1e66d57/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/36b382e4c4911d1239fe806fe1e66d57/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/e8ffb1e85d0d267580aada9c4771efcc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/e8ffb1e85d0d267580aada9c4771efcc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/2f79b7a9b693e27ef0fc4bc3f044092c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/2f79b7a9b693e27ef0fc4bc3f044092c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/6dd132864a5c51beb136620df3daae62/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/6dd132864a5c51beb136620df3daae62/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/c5f7a771183807500f00d7e7b880503d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/c5f7a771183807500f00d7e7b880503d/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/76ef4e01a897bd979dfd4cab25dc8c42/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/76ef4e01a897bd979dfd4cab25dc8c42/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/b6be0f18e52e1c3f961a25e7bc7eee64/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/b6be0f18e52e1c3f961a25e7bc7eee64/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/02c65bbd703313a8bdf0683e7536e9a5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/02c65bbd703313a8bdf0683e7536e9a5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/3477bfa0acc59cb22644780fdc7fe6a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/3477bfa0acc59cb22644780fdc7fe6a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/dfa937ca0b1bfb7163ce23f78f06b000/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/dfa937ca0b1bfb7163ce23f78f06b000/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/bbdf8bafea648111e96bff181a501bb5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/bbdf8bafea648111e96bff181a501bb5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/42b4c9e7620319ea9e7f871f334d218c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/42b4c9e7620319ea9e7f871f334d218c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/e3562adb03f63f08c7d9ed535750888e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/e3562adb03f63f08c7d9ed535750888e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/79fbfba3e40fcbc9dfdbf3196bcfcc5b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/79fbfba3e40fcbc9dfdbf3196bcfcc5b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/c07210e7e0481d64f9dc05be9a795815/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/c07210e7e0481d64f9dc05be9a795815/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/4c7982f127c2dfee5581e4205d9fc558/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/4c7982f127c2dfee5581e4205d9fc558/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/43a4ae23e80a395e119a800ee7d70615/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/43a4ae23e80a395e119a800ee7d70615/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/005f4b733510dda10cbebf044e4356b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/005f4b733510dda10cbebf044e4356b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/b59074a32769ff97871e13ac4cb26f52/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/b59074a32769ff97871e13ac4cb26f52/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/a51304ee253976ac369eb538a385f1ad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/a51304ee253976ac369eb538a385f1ad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/dfec69438058b5b09c6eb922d1461acd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/dfec69438058b5b09c6eb922d1461acd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/dcb7f06f5d922b41d6aceb66a0a9c0cb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/dcb7f06f5d922b41d6aceb66a0a9c0cb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/c29ffcd1d59351f5c685f32235840832/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/c29ffcd1d59351f5c685f32235840832/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/106bb37aeca31d79e72827cb8801f468/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/106bb37aeca31d79e72827cb8801f468/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/bb3ce86e8a83609dab09d31979c9849e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/bb3ce86e8a83609dab09d31979c9849e/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/6854d6fb1ea8dbd95af2cb89d1f3822a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/wutingfu/.gradle/caches/transforms-2/files-2.1/6854d6fb1ea8dbd95af2cb89d1f3822a/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/wutingfu/Desktop/new-mms-rn/mms_rn/android/app/src/debug/AndroidManifest.xml:5:22-75
